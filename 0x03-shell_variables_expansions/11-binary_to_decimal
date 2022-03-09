@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BINARY | x))
+echo $((x$BINARY))
